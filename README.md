@@ -19,4 +19,4 @@ To ensure policy compliance and synchronization, the master process (process ran
 ## MPI Functions
 Functions: `MPI_Scatterv`, `MPI_Gatherv`, `MPI_Alltoallv`
 
-Full report: [here](https://github.com/nus-cs3210/cs3210-assignment3-a3-e1345627/blob/main/Assignment%203_report.pdf)
+Full report: [here](https://github.com/ntnblune/Simulation-of-MRT-Network-in-MPI/blob/main/Assignment%203_report.pdf)
